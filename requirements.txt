@@ -1,0 +1,6 @@
+gradio
+soundfile
+numpy
+torch
+torchaudio
+git+https://github.com/resemble-ai/resemble-enhance.git
