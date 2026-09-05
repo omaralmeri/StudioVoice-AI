@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Jupyter & Colab
+.ipynb_checkpoints/
+
+# Temporary Audio/Video files
+*.wav
+*.mp3
+*.mp4
+*.mkv
+*.mov
+*.avi
+temp_*
+raw_*
+Master_*
+Studio_*
